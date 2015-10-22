@@ -1,0 +1,23 @@
+name: gloriousriches
+favicon: null
+layout_spectrum: 0.780675851739943
+typography_spectrum: 0.025823576608672738
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8482332762796432
+  lightness: 0.5872239959426224
+  saturation: 0.7845715801231563
+  rhythmicContrast: 0.8632892419118434
+purpose: []
